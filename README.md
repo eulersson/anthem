@@ -26,11 +26,13 @@
 
 This project was selected to be presented at CinemaJS, as part of a series of
 creative web development... in a cinema! A more detailed explanation can be
-found in my website's portfolio item [page](https://www.ramn.dev/work/ariviz).
+found in [my website](https://www.ramn.dev/work/ariviz).
 
 ![Speaking in CinemaJS Conference](img/cinemajs.png)
 
-Slides from this conference are available by clicking here or the image below:
+I published the slides I used during the presentation. When navigating them make
+sure you use not only left-right but also up down. I talked about pixel shaders,
+raymarching (or sphere tracing) and how the data flows in my demos.
 
 [![Presentation Slides](img/presentation-slides.png)](https://ramn.dev/cinemajs/index.html)
 
